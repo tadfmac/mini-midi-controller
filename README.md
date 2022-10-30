@@ -2,9 +2,13 @@
 
 ![assign](./assign.png)
 
-## source
+## firmware
 
 [see](./arduino/mini-midi/)
+
+## schematics
+
+WIP
 
 ## dependencies
 
